@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "react-dev-utils": "^11.0.4",
-    "react-scripts": "^4.0.3",
-    "redux-saga": "^1.1.3"
-  }
-}

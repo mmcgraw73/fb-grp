@@ -12,22 +12,11 @@ import './Group.css'
 
 function Group() {
   return (
-<Card>
-      <CardPrimaryContent>
-        <h1>Header</h1>
-        <CardMedia square imageUrl='./my/fancy/image.png' />
-      </CardPrimaryContent>
-
-      <CardActions>
-        <CardActionButtons>
-          <button>Click Me</button>
-        </CardActionButtons>
-
-        <CardActionIcons>
-          <i>Click Me Too!</i>
-        </CardActionIcons>
-      </CardActions>
-    </Card>
+  <div className="group">
+<div class="rounded bg-white shadow max-w-md mx-auto">
+  
+</div>
+</div>
   )
 }
 

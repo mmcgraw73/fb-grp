@@ -3,6 +3,7 @@ import '../group/Group'
 import Group from '../group/Group'
 import Header from '../header/Header'
 import TitleBar from '../titlebar/TitleBar'
+import UserList from '../user/UserList'
 
 import React, { useState } from 'react';
 
