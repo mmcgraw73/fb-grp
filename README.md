@@ -1,3 +1,13 @@
+
+good morning - sorry for the delay, I was moving in auto-pilot mode not paying enough attention and the projects package.json was accidentally deleted from the command line with a tab complete - there _was_ a command in my iTerm history where I deleted node modules, package.json and package-lock.json `rm -rf node_modules package-lock.json package.json` - that was not the command I was looking for...
+
+I did piece the file back together enough to run the project and you should be able to get a decent idea of my direction - 
+
+whiteboard notes:
+
+![IMG_2630](https://user-images.githubusercontent.com/565960/146023942-df256fef-46e5-4e3c-9978-639af7cb6e4e.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
