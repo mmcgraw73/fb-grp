@@ -7,11 +7,17 @@ import UserList from '../user/UserList'
 
 import React, { useState } from 'react';
 
-function Page() {
+/**
+ * @description a 'conductor' for lower level components - this component acts as the groups home page
+ * 
+ * @returns a page level wrapper component -  
+ */
+
+function Page(props) {
   const [meta, user, group] = useState([])
     return (
       <div className="page">
-        <Header className="page-header" name="{user.first}">
+        <Header className="page-header" name={user.first}>
           <h1 className="page-blue page-xl">
             {meta.pageTitle}
           </h1>
