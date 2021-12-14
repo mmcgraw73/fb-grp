@@ -1,7 +1,7 @@
 
 good morning - sorry for the delay, I was moving in auto-pilot mode not paying enough attention and the projects package.json was accidentally deleted from the command line with a tab complete - there _was_ a command in my iTerm history where I deleted node modules, package.json and package-lock.json `rm -rf node_modules package-lock.json package.json` - that was not the command I was looking for...
 
-I did piece the file back together enough to run the project and you should be able to get a decent idea of my direction - 
+I did piece the file back together enough to run the project and you should be able to get a decent idea of my direction -
 
 whiteboard notes:
 
