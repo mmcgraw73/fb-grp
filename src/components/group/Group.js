@@ -1,13 +1,4 @@
-// group component - panel element
-import Card, {
-  CardPrimaryContent,
-  CardMedia,
-  CardActions,
-  CardActionButtons,
-  CardActionIcons
-} from "@material/react-card"
-
-
+// group component - card element
 import './Group.css'
 
 function Group() {
